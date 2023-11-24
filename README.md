@@ -1,6 +1,6 @@
 # Jogo Tetris
 
-Este programa em Java é um jogo Tetris implementado por [Seu Nome], um programador Java experiente com mais de 15 anos de experiência. O código é um fork do projeto original criado por DataWraith. O jogo é construído usando a biblioteca Swing do Java para a interface gráfica do usuário.
+Este programa em Java é um jogo Tetris implementado por mim. O código é um fork do projeto original criado por DataWraith. O jogo é construído usando a biblioteca Swing do Java para a interface gráfica do usuário.
 
 ## Recursos
 - Jogabilidade clássica do Tetris com uma interface gráfica.
