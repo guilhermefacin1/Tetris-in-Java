@@ -200,7 +200,7 @@ public class Tetris extends JPanel {
 		game.init();
 		f.add(game);
 
-		// Keyboard controls
+		// Teclas de Controle
 		f.addKeyListener(new KeyListener() {
 			public void keyTyped(KeyEvent e) {
 			}
@@ -230,7 +230,7 @@ public class Tetris extends JPanel {
 			}
 		});
 
-		// Make the falling piece drop every second
+		// Fazer a peça cair a cada segundo
 		new Thread() {
 			@Override public void run() {
 				while (true) {
